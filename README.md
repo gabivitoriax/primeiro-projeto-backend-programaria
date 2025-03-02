@@ -10,7 +10,7 @@ Este projeto consiste em uma grande biblioteca de mulheres que fizeram a diferen
 
 <p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/></p>
 
-🛠️ Abrir e rodar o projeto
+#### 🛠️ Abrir e rodar o projeto
 Link de deploy integrado com o Front-end: https://front-programaria-react-rouge-delta.vercel.app/
 O repositório do front-end também está no meu perfil. 
 
